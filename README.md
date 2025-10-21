@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I’m Akarshi! 👋
 I started out in the world of data, where I spent time exploring how numbers can tell real stories. I’ve built dashboards, cleaned messy datasets, and helped teams make smarter decisions using tools like Power BI, Excel, SQL.
-Lately, I’ve found myself drawn toward the Apple ecosystem — especially Swift and SwiftUI. There’s something exciting about creating apps that feel simple, beautiful, and useful. I’ve been learning how to bring ideas to life through code, experimenting with small Swift projects, and exploring how design and logic come together on iOS.
+Lately, I’ve found myself drawn toward the Apple ecosystem especially Swift and SwiftUI. There’s something exciting about creating apps that feel simple, beautiful, and useful. I’ve been learning how to bring ideas to life through code, experimenting with small Swift projects, and exploring how design and logic come together on iOS.
 
 
 ## 🌐 Socials:
